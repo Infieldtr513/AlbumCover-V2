@@ -1,0 +1,13 @@
+  table {
+        border: 1px solid black;
+        margin-left: 10%;
+        width:80%;
+    }
+    ul {
+        text-align:center;
+        width: 80%;
+        margin-left: 10%;
+    }
+    li{
+        text-align: left;
+    }
